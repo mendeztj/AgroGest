@@ -1,0 +1,6 @@
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\Styles\bin\Debug\Styles.dll
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\Styles\bin\Debug\Styles.pdb
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\Styles\obj\Debug\Styles.csproj.AssemblyReference.cache
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\Styles\obj\Debug\Styles.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\Styles\obj\Debug\Styles.dll
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\Styles\obj\Debug\Styles.pdb

@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7CBC005-1FA2-4C02-817A-63C912EDF411}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AgroGest</RootNamespace>
+    <AssemblyName>AgroGest</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgroGest-Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgroGest-Login.Designer.cs">
+      <DependentUpon>AgroGest-Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgroGest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgroGest.Designer.cs">
+      <DependentUpon>AgroGest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formAdditional\client\FormClientTabControl_Markdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAdditional\client\FormClientTabControl_Markdown.Designer.cs">
+      <DependentUpon>FormClientTabControl_Markdown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formAdditional\client\FormClientTabControl_Visual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="formAdditional\client\FormClientTabControl_Visual.Designer.cs">
+      <DependentUpon>FormClientTabControl_Visual.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormClients.Designer.cs">
+      <DependentUpon>FormClients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSettings.Designer.cs">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUsers.Designer.cs">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AgroGest-Login.resx">
+      <DependentUpon>AgroGest-Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgroGest.resx">
+      <DependentUpon>AgroGest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAdditional\client\FormClientTabControl_Markdown.resx">
+      <DependentUpon>FormClientTabControl_Markdown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formAdditional\client\FormClientTabControl_Visual.resx">
+      <DependentUpon>FormClientTabControl_Visual.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormClients.resx">
+      <DependentUpon>FormClients.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSettings.resx">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUsers.resx">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\aside-AgroGest_Logo.png" />
+    <Content Include="images\assets\add.png" />
+    <Content Include="images\assets\aside-add.png" />
+    <Content Include="images\assets\edit.png" />
+    <Content Include="images\assets\refresh.png" />
+    <Content Include="images\assets\remove.png" />
+    <Content Include="images\assets\search.png" />
+    <Content Include="images\mainframe-AgroGest_Logo-ico.ico" />
+    <Content Include="images\menu-left\alerts\alert-ico.ico" />
+    <Content Include="images\menu-left\alerts\alert.png" />
+    <Content Include="images\menu-left\alerts\alerts-ico.ico" />
+    <Content Include="images\menu-left\alerts\alerts.png" />
+    <Content Include="images\menu-left\alerts\aside-alert.png" />
+    <Content Include="images\menu-left\alerts\aside-alerts.png" />
+    <Content Include="images\menu-left\buys\add-buy.png" />
+    <Content Include="images\menu-left\buys\aside-buys.png" />
+    <Content Include="images\menu-left\buys\buys-ico.ico" />
+    <Content Include="images\menu-left\buys\buys.png" />
+    <Content Include="images\menu-left\buys\edit-buy.png" />
+    <Content Include="images\menu-left\buys\rempve-buy.png" />
+    <Content Include="images\menu-left\clients\add-client.png" />
+    <Content Include="images\menu-left\clients\aside-client.png" />
+    <Content Include="images\menu-left\clients\clients-ico.ico" />
+    <Content Include="images\menu-left\clients\clients.png" />
+    <Content Include="images\menu-left\clients\edit-client.png" />
+    <Content Include="images\menu-left\clients\remove-client.png" />
+    <Content Include="images\menu-left\home\aside-home.png" />
+    <Content Include="images\menu-left\home\home-ico.ico" />
+    <Content Include="images\menu-left\home\home.png" />
+    <Content Include="images\menu-left\logout\aside-logout.png" />
+    <Content Include="images\menu-left\logout\logout-ico.ico" />
+    <Content Include="images\menu-left\logout\logout.png" />
+    <Content Include="images\mainframe-AgroGest_Logo.png" />
+    <Content Include="images\menu-left\product\add-product.png" />
+    <Content Include="images\menu-left\product\aside-products.png" />
+    <Content Include="images\menu-left\product\edit-product.png" />
+    <Content Include="images\menu-left\product\product-ico.ico" />
+    <Content Include="images\menu-left\product\product.png" />
+    <Content Include="images\menu-left\product\remove-product.png" />
+    <Content Include="images\menu-left\sales\add-sale.png" />
+    <Content Include="images\menu-left\sales\aside-sales.png" />
+    <Content Include="images\menu-left\sales\edit-sale.png" />
+    <Content Include="images\menu-left\sales\remove-sale.png" />
+    <Content Include="images\menu-left\sales\sales-ico.ico" />
+    <Content Include="images\menu-left\sales\sales.png" />
+    <Content Include="images\menu-left\settings\aside-settings.png" />
+    <Content Include="images\menu-left\settings\settings-ico.ico" />
+    <Content Include="images\menu-left\settings\settings.png" />
+    <Content Include="images\menu-left\users\add-user.png" />
+    <Content Include="images\assets\alert.png" />
+    <Content Include="images\assets\download.png" />
+    <None Include="images\menu-left\users\aside-users.png" />
+    <Content Include="images\menu-left\users\aside-user.png" />
+    <Content Include="images\menu-left\users\edit-user.png" />
+    <Content Include="images\assets\error.png" />
+    <Content Include="images\menu-bar\maximize.png" />
+    <Content Include="images\menu-left\users\remove-user.png" />
+    <Content Include="images\assets\success.png" />
+    <Content Include="images\menu-left\users\user-ico.ico" />
+    <Content Include="images\menu-left\users\user.png" />
+    <Content Include="images\menu-left\users\users-ico.ico" />
+    <Content Include="images\menu-left\users\users.png" />
+    <None Include="images\AgroGest_Logo.png" />
+    <Content Include="images\menu-bar\exit.png" />
+    <Content Include="images\menu-bar\minimize.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{465fe789-e5b9-4d5a-9eb7-e8bb28f5cf3a}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Styles\Styles.csproj">
+      <Project>{bdbca03d-e18b-4306-bd93-0ef8f9079cf9}</Project>
+      <Name>Styles</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

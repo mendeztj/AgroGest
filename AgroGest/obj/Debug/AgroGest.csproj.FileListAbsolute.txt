@@ -1,0 +1,89 @@
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\AgroGest.exe.config
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\AgroGest.exe
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\AgroGest.pdb
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.AssemblyReference.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.Properties.Resources.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.GenerateResource.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CoreCompileInputs.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.exe
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.pdb
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest_Login.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CopyComplete
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\AgroGest.exe.config
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\AgroGest.exe
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\AgroGest.pdb
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.AssemblyReference.cache
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest_Login.resources
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest.resources
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.Properties.Resources.resources
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.GenerateResource.cache
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CopyComplete
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.exe
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.pdb
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Model.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Model.pdb
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Model.dll.config
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Model.dll
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Model.pdb
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Model.dll.config
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\AgroGest.exe.config
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\AgroGest.exe
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\AgroGest.pdb
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\Model.dll
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\Model.pdb
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\Model.dll.config
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.AssemblyReference.cache
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest_Login.resources
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest.resources
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.Properties.Resources.resources
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.GenerateResource.cache
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CoreCompileInputs.cache
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CopyComplete
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.exe
+C:\Users\alcal\Downloads\Pt1-Grup-1-Primer_Sprint\AgroGest\AgroGest\obj\Debug\AgroGest.pdb
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.FormUsers.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.FormUsers.resources
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.FormSettings.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.FormSettings.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\AgroGest.exe.config
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\AgroGest.exe
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\AgroGest.pdb
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\Model.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\Model.pdb
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\Model.dll.config
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.AssemblyReference.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.SuggestedBindingRedirects.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest_Login.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.AgroGest.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.FormSettings.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.FormUsers.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.Properties.Resources.resources
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.GenerateResource.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CoreCompileInputs.cache
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.csproj.CopyComplete
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.exe
+C:\Users\alcal\Documents\Visual Studio Comunity\AgroGest_v7\AgroGest\AgroGest\obj\Debug\AgroGest.pdb
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Styles.dll
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\bin\Debug\Styles.pdb
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.FormClients.resources
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.formAdditional.client.FormClientTabControl_Markdown.resources
+C:\Users\ivanb\Documents\Visual Studio Comunity\AgroGest\AgroGest\obj\Debug\AgroGest.formAdditional.client.FormClientTabControl_Visual.resources
